@@ -37,8 +37,7 @@ FYI: Some videos will take a very long time
 
 ## Authors
 
-* **Matthew Sewell** - [Python Financial](https://pythonfinancial.com) 
-* Initial work* - [Github](https://github.com/msewell13)
+* **Matthew Sewell** - [Python Financial](https://pythonfinancial.com) Initial work* - [Github](https://github.com/msewell13)
 
 ## License
 
