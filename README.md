@@ -6,23 +6,25 @@ Files is a program that walks through your file system and resizes all image and
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### Installing
 
 Start by Cloning this repository
 
-The Pipfile contains all the dependancies for the project. If you already use Pipenv you can go straight to running the program otherwise you will need to install everything manually. Consider installing Pipenv by running...
+The Pipfile.lock contains all the dependancies for the project. If you already use [Pipenv](https://docs.pipenv.org/) you can run the following command and then go straight to running the program 
 
 ```
-$ pip install --user pipenv
+pipenv install
 ```
 
-### Running the Program
+### How To Run
+
+Make sure you specify which directory or directories that you want to run the program on and then fire it up...
 
 ```
-$ pipenv run python folders.py
+$ pipenv run python files.py
 ```
 
-Some videos will take a very long time
+FYI: Some videos will take a very long time
 
 ## Future Developments
 * Add threading
