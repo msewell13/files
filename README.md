@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Start by Cloning this repository
 
-The Pipfile.lock contains all the dependancies for the project. If you already use [Pipenv](https://docs.pipenv.org/) you can run the following command and then go straight to running the program 
+The Pipfile.lock contains all the dependancies for the project. If you already use [Pipenv](https://docs.pipenv.org/) you can run the following command:
 
 ```
 pipenv install
